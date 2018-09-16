@@ -1,0 +1,45 @@
+_repo: Prospector-s-Special_51768
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: &id001 1933
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+  - agent_name: Dillon, Leo
+    birthdate: *id001
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - O'Donnevan, Finn
+    - Lang, Ned
+    - Barbee, Phillip
+    - Barbee, Phillips
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prospecting -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Venus (Planet) -- Fiction'
+- GITenberg
+title: Prospector's Special
+url: http://www.gutenberg.org/ebooks/51768
